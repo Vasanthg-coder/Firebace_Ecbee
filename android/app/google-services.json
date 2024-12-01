@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745512484280",
+    "project_id": "ecbee-9884a",
+    "storage_bucket": "ecbee-9884a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745512484280:android:57ae98c8a93d3fddb5634d",
+        "android_client_info": {
+          "package_name": "com.example.ecbee_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALobZxSUwOClk-l0UNiBBhw8cVcKySkIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
